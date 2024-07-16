@@ -28,7 +28,6 @@ By developing this project,I gained hands-on experience in crafting immersive we
 - Vite
 - Tailwind CSS
 
-Follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
 
