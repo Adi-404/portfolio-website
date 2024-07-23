@@ -240,7 +240,7 @@ const projects = [
       },
     ],
     image: aisaas,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Adi-404/AI-Saas",
   },
   {
     name: "movie-recommender-system",
